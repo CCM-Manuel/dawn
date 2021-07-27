@@ -1,5 +1,9 @@
 {
   "current": {
+    "colors_accent_1": "#36afaa",
+    "colors_background_2": "#FAF1E9",
+    "social_facebook_link": "https:\/\/www.facebook.com\/Comfy-Cloth-Masks-100258145439942",
+    "social_instagram_link": "https:\/\/www.instagram.com\/comfyclothmasks\/",
     "favicon": "shopify:\/\/shop_images\/LOGO_W-B.png",
     "currency_code_enabled": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_W-B.png",
@@ -37,8 +41,8 @@
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Sign up to our emails",
-          "show_social": false,
+          "newsletter_heading": "",
+          "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": true,
           "payment_enable": true
