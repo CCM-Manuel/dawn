@@ -345,7 +345,7 @@ a.product__text {
   }
 
   .product__media-list::-webkit-scrollbar-track {
-    background-color: rgba(var(--color-foreground), 0.2);
+    background-color: rgba(var(--color-foreground), 0.0);
   }
 
   .product__media-list .product__media-item {
