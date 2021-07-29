@@ -34,12 +34,19 @@
           "settings": {
             "collection": "art"
           }
+        },
+        "a59d3b82-c0fc-4a6a-9e83-ddac308bab72": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "size-large"
+          }
         }
       },
       "block_order": [
         "16273927014213bb70-0",
         "16273927014213bb70-2",
-        "16273927014213bb70-1"
+        "16273927014213bb70-1",
+        "a59d3b82-c0fc-4a6a-9e83-ddac308bab72"
       ],
       "settings": {
         "title": "Collections",
