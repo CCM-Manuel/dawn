@@ -60,8 +60,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "collection": "women",
+        "title": "NEW products",
+        "collection": "featured",
         "products_to_show": 12,
         "show_view_all": false,
         "swipe_on_mobile": true,
