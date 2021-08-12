@@ -7,11 +7,15 @@
     "colors_background_2": "#ffffff",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse",
+    "accent_icons": "text",
     "social_facebook_link": "https:\/\/www.facebook.com\/Comfy-Cloth-Masks-100258145439942",
     "social_instagram_link": "https:\/\/www.instagram.com\/comfyclothmasks\/",
     "favicon": "shopify:\/\/shop_images\/LOGO_W-B.png",
     "currency_code_enabled": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_W-B.png",
+    "checkout_body_background_color": "#0093c4",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
