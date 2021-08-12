@@ -1,7 +1,10 @@
 {
   "current": {
-    "colors_accent_1": "#36afaa",
-    "colors_background_2": "#FAF1E9",
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#303f9f",
+    "colors_accent_2": "#666ad1",
+    "colors_outline_button_labels": "#0093c4",
+    "colors_background_2": "#ffffff",
     "social_facebook_link": "https:\/\/www.facebook.com\/Comfy-Cloth-Masks-100258145439942",
     "social_instagram_link": "https:\/\/www.instagram.com\/comfyclothmasks\/",
     "favicon": "shopify:\/\/shop_images\/LOGO_W-B.png",
