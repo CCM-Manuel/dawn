@@ -43,20 +43,6 @@
         "show_view_all": false
       }
     },
-    "1627393199a632b967": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Special Edition",
-        "collection": "art",
-        "products_to_show": 4,
-        "show_view_all": false,
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_vendor": false
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -70,11 +56,25 @@
         "add_image_padding": true,
         "show_vendor": false
       }
+    },
+    "1627393199a632b967": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "all masks",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": true,
+        "show_vendor": false
+      }
     }
   },
   "order": [
     "16273927014213bb70",
-    "1627393199a632b967",
-    "featured_products"
+    "featured_products",
+    "1627393199a632b967"
   ]
 }
