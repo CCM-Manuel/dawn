@@ -1,13 +1,15 @@
 {
   "current": {
-    "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#4fc3f7",
-    "colors_accent_2": "#8bf6ff",
+    "colors_solid_button_labels": "#000000",
+    "colors_accent_1": "#4dd0e1",
+    "colors_accent_2": "#88ffff",
+    "colors_text": "#000000",
     "colors_outline_button_labels": "#303f9f",
+    "colors_background_1": "#ffffff",
     "colors_background_2": "#ffffff",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
-    "sale_badge_color_scheme": "accent-2",
+    "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
     "social_facebook_link": "https:\/\/www.facebook.com\/Comfy-Cloth-Masks-100258145439942",
@@ -30,7 +32,7 @@
             "type": "announcement",
             "settings": {
               "text": "We only ship to the US",
-              "color_scheme": "accent-1",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
