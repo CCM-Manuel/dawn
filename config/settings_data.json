@@ -15,6 +15,7 @@
     "favicon": "shopify:\/\/shop_images\/LOGO_W-B.png",
     "currency_code_enabled": false,
     "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_W-B.png",
+    "checkout_body_background_image": "shopify:\/\/shop_images\/Zeichenflache_1_9f18d4f0-9edf-4487-bb57-19632fd59301.png",
     "checkout_body_background_color": "#ffffff",
     "checkout_sidebar_background_color": "#ffffff",
     "sections": {
