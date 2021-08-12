@@ -10,6 +10,19 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "eb9a2c1f-afff-4d79-b66b-228023e6db47": {
+            "type": "announcement",
+            "settings": {
+              "text": "We ship only to the US",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "eb9a2c1f-afff-4d79-b66b-228023e6db47"
+        ],
         "settings": {
         }
       },
