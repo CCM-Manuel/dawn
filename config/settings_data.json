@@ -1,8 +1,8 @@
 {
   "current": {
-    "colors_solid_button_labels": "#000000",
-    "colors_accent_1": "#4dd0e1",
-    "colors_accent_2": "#88ffff",
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#4527a0",
+    "colors_accent_2": "#64b5f6",
     "colors_text": "#000000",
     "colors_outline_button_labels": "#303f9f",
     "colors_background_1": "#ffffff",
@@ -32,7 +32,7 @@
             "type": "announcement",
             "settings": {
               "text": "We only ship to the US",
-              "color_scheme": "accent-2",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
