@@ -1,9 +1,9 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#303f9f",
-    "colors_accent_2": "#666ad1",
-    "colors_outline_button_labels": "#0093c4",
+    "colors_accent_1": "#4fc3f7",
+    "colors_accent_2": "#8bf6ff",
+    "colors_outline_button_labels": "#303f9f",
     "colors_background_2": "#ffffff",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
